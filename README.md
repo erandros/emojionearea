@@ -8,7 +8,7 @@ The end result is a secure text/plain in which the image icons will be replaced 
 
 ![EmojiOne Area version 3.0.0](http://mervick.github.io/emojionearea/images/v3.png)
 
-[See the Live Demo here](https://jsfiddle.net/1v03Lqnu/)
+[See the Live Demo here](https://jsfiddle.net/1v03Lqnu/773/)
 
 [Version 2.x](https://github.com/mervick/emojionearea/tree/version2)
 
